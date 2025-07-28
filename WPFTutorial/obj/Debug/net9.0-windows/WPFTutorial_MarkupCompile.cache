@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
 C:\Users\osama\WindowsProjects\WPFTutorial\WPFTutorial\App.xaml
-5-64370989
+7-371401484
 
-86328661
+12215503607
 201668129756
-MainWindow.xaml;View\ModalWindow.xaml;View\NormalWindow.xaml;View\UserControls\ClearableTextBox.xaml;View\UserControls\MenuBar.xaml;
+MainWindow.xaml;OldView\ModalWindow.xaml;OldView\NormalWindow.xaml;OldView\UserControls\ClearableTextBox.xaml;OldView\UserControls\MenuBar.xaml;Styles\ButtonStyles.xaml;Styles\TextBoxStyles.xaml;
 
 False
 

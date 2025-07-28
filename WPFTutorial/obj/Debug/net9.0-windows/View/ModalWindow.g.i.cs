@@ -78,7 +78,7 @@ namespace WPFTutorial.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPFTutorial;V1.0.0.0;component/view/modalwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPFTutorial;component/view/modalwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\ModalWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

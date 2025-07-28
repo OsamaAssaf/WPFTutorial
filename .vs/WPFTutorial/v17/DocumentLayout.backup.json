@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8482A638-16C1-4BB0-B353-80ED63FF2365}|WPFTutorial\\WPFTutorial.csproj|c:\\users\\osama\\windowsprojects\\wpftutorial\\wpftutorial\\view\\modalwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8482A638-16C1-4BB0-B353-80ED63FF2365}|WPFTutorial\\WPFTutorial.csproj|solutionrelative:wpftutorial\\view\\modalwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8482A638-16C1-4BB0-B353-80ED63FF2365}|WPFTutorial\\WPFTutorial.csproj|c:\\users\\osama\\windowsprojects\\wpftutorial\\wpftutorial\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8482A638-16C1-4BB0-B353-80ED63FF2365}|WPFTutorial\\WPFTutorial.csproj|solutionrelative:wpftutorial\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8482A638-16C1-4BB0-B353-80ED63FF2365}|WPFTutorial\\WPFTutorial.csproj|c:\\users\\osama\\windowsprojects\\wpftutorial\\wpftutorial\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8482A638-16C1-4BB0-B353-80ED63FF2365}|WPFTutorial\\WPFTutorial.csproj|solutionrelative:wpftutorial\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8482A638-16C1-4BB0-B353-80ED63FF2365}|WPFTutorial\\WPFTutorial.csproj|c:\\users\\osama\\windowsprojects\\wpftutorial\\wpftutorial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8482A638-16C1-4BB0-B353-80ED63FF2365}|WPFTutorial\\WPFTutorial.csproj|solutionrelative:wpftutorial\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8482A638-16C1-4BB0-B353-80ED63FF2365}|WPFTutorial\\WPFTutorial.csproj|c:\\users\\osama\\windowsprojects\\wpftutorial\\wpftutorial\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8482A638-16C1-4BB0-B353-80ED63FF2365}|WPFTutorial\\WPFTutorial.csproj|solutionrelative:wpftutorial\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +29,54 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\WPFTutorial\\MVVM\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WPFTutorial\\MVVM\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\WPFTutorial\\MVVM\\RelayCommand.cs",
+              "RelativeToolTip": "WPFTutorial\\MVVM\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:03:00.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ModalWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\WPFTutorial\\View\\ModalWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPFTutorial\\View\\ModalWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\WPFTutorial\\View\\ModalWindow.xaml.cs",
-              "RelativeToolTip": "WPFTutorial\\View\\ModalWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\WPFTutorial\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WPFTutorial\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\WPFTutorial\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WPFTutorial\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T13:18:18.87Z",
+              "WhenOpened": "2025-07-28T06:54:58.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\WPFTutorial\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFTutorial\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\WPFTutorial\\MainWindow.xaml",
+              "RelativeToolTip": "WPFTutorial\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-28T05:34:28.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\WPFTutorial\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFTutorial\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\osama\\WindowsProjects\\WPFTutorial\\WPFTutorial\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFTutorial\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:34:27.779Z",
               "EditorCaption": ""
             }
           ]

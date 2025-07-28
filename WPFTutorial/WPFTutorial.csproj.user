@@ -7,13 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="View\ModalWindow.xaml.cs">
+    <Compile Update="OldView\ModalWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\NormalWindow.xaml.cs">
+    <Compile Update="OldView\NormalWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\UserControls\ClearableTextBox.xaml.cs">
+    <Compile Update="OldView\UserControls\ClearableTextBox.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -21,13 +21,19 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\ModalWindow.xaml">
+    <Page Update="Styles\ButtonStyles.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\NormalWindow.xaml">
+    <Page Update="Styles\TextBoxStyles.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\UserControls\ClearableTextBox.xaml">
+    <Page Update="OldView\ModalWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OldView\NormalWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OldView\UserControls\ClearableTextBox.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
